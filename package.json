@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "http-server": "^14.1.1"
+  },
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurazinch/workspace.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Зинченко Юрий",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurazinch/workspace/issues"
+  },
+  "homepage": "https://github.com/Yurazinch/workspace#readme"
+}
